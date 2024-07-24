@@ -65,7 +65,7 @@ A API REST permite consultar as seguintes informações:
 1. **Clone o repositório**:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/MSpilari/microservice-mongo-rabbitmq
    cd seu-repositorio
    ```
 
